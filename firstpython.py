@@ -8,4 +8,4 @@ This is the second code. for the Youth branch.
 
 #Display the output
 
-  print("Hello Mexico")
+print("Hello Mexico")
